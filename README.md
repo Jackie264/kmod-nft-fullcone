@@ -1,5 +1,5 @@
 # kmod-nft-fullcone
-Builded kmod-nft-fullcone ipk file for Openwrt 23.05.4 on arm_cortex-a7_neon-vfpv4
+Built a kmod-nft-fullcone.ipk file for Openwrt 23.05.4 on arm_cortex-a7_neon-vfpv4
 ## Model:	Linksys WHW03 V2 (Velop)
 Compatible with Linksys MR9000X
 ## Target Platform:	ipq40xx/generic
